@@ -15,6 +15,7 @@ const Home = () => (
     <div>
         <Head>
             <title>Home</title>
+            <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         </Head>
         <img src="/static/panda.jpg" width="200" />
         <Title>Hello World</Title>
